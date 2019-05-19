@@ -1,0 +1,7 @@
+rootProject.name = 'SmartCoffee'
+include ':react-native-svg'
+project(':react-native-svg').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-svg/android')
+include ':react-native-android-taskdescription'
+project(':react-native-android-taskdescription').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-taskdescription/android')
+
+include ':app'
