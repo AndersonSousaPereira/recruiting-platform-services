@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 19 19:30:57 BRT 2019
+#Sun May 19 21:15:10 BRT 2019
 5.base=C\:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
 42.base=C\:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
 22.path=lib/arm64-v8a/libreactnativejni.so

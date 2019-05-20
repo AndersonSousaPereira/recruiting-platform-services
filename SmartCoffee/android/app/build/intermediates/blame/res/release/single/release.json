@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\anim_catalyst_slide_down.xml.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\40ba0efa3e1ca545a4cbd63007bdb80e\\res\\anim\\catalyst_slide_down.xml"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\anim_catalyst_slide_down.xml.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\40ba0efa3e1ca545a4cbd63007bdb80e\\res\\anim\\catalyst_slide_down.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_img_history.png.flat",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_cab_background_internal_bg.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_item_background_holo_light.xml.flat",
@@ -112,12 +112,12 @@
         "source": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigationstack_dist_views_assets_backicon.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_img_cafeduplo.png.flat",
-        "source": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_img_cafeduplo.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_redbox_top_border_background.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\40ba0efa3e1ca545a4cbd63007bdb80e\\res\\drawable\\redbox_top_border_background.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_img_cafeduplo.png.flat",
+        "source": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_img_cafeduplo.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -144,16 +144,16 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d8cab003af826b876e68912f05391703\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d8cab003af826b876e68912f05391703\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -164,12 +164,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -192,12 +192,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\xml_rn_dev_preferences.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\40ba0efa3e1ca545a4cbd63007bdb80e\\res\\xml\\rn_dev_preferences.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -220,12 +220,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -248,12 +248,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -388,12 +388,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -456,12 +456,12 @@
         "source": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\color_switch_thumb_material_light.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -508,12 +508,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativerouterflux_images_menu_burger.png.flat",
         "source": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativerouterflux_images_menu_burger.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -540,28 +540,28 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d8cab003af826b876e68912f05391703\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d8cab003af826b876e68912f05391703\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\layout_abc_action_menu_layout.xml.flat",
@@ -600,12 +600,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigationstack_dist_views_assets_backicon.png.flat",
@@ -664,12 +664,12 @@
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Anderson\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\254f662d28f98ea00b104c88ea70d568\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\xampp\\htdocs\\recruiting-platform-services\\SmartCoffee\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
