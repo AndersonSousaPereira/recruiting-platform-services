@@ -4,8 +4,8 @@
 2. Dentro da pasta ./SmartCoffee execute o comando "npm install";
 3. Conecte o celular ao cabo usb e o mesmo ao computador;
 4. Garanta que as opções de desenvolvedor estejam habilitadas e que o modo de depuração esteja acionado;
-5.1. Execute o comando "react-native run-android" para o sistema operacional android;
-5.2. Execute o comando "react-native run-ios" para o sistema operacional IOS;
+5 Execute o comando "react-native run-android" para o sistema operacional android;
+6 Execute o comando "react-native run-ios" para o sistema operacional IOS;
 
 
 Obs. Caso o React Native CLI não esteja instalado, instale-o através do seguinte link: https://facebook.github.io/react-native/docs/getting-started
