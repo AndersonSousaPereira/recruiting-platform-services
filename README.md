@@ -13,6 +13,5 @@ Obs. Caso o React Native CLI não esteja instalado, instale-o através do seguin
 ### Instruções para rodar diretamente no celular
 
 1. Baixe o apk no celular presente na pasta ./apk;
-2. Ao instalar será necessária a confirmação para que o aplicativo possa ser instalado
-3. Ao permitir a instalação será feita e o aplicatrivo já poderá ser utilizado
+2. Será necessária a confirmação para que o aplicativo possa ser instalado, aceite para prosseguir.
 
